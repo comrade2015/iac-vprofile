@@ -10,4 +10,3 @@ variable "cluster_name" {
   default     = "vprofile-eks"
 }
 
-##
